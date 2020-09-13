@@ -16,11 +16,7 @@ SEED="
 *  /[dblock]/ /Seed/ :: [[file:/bisos/core/bsip/bin/seedFtoCommon.sh]] | 
 "
 FILE="
-<<<<<<< HEAD
 *  /This File/ :: /bisos/git/auth/bxRepos/ByStar/ftoProc.sh 
-=======
-*  /This File/ :: /bisos/git/auth/bxRepos/ByStar/base/ftoProc.sh 
->>>>>>> 98329631dde55cb6cdcc319888c1013515404c07
 "
 if [ "${loadFiles}" == "" ] ; then
     /bisos/core/bsip/bin/seedFtoCommon.sh -l $0 "$@" 
