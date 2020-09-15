@@ -54,7 +54,6 @@ _CommentEnd_
 # {{{ DBLOCK-nodesList
 nodesList="
 overview
-base
 "
 # }}} DBLOCK-nodesList
 ####+END:
